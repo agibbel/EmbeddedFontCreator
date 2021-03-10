@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Authors>Andrey Tepliakov</Authors>
+    <Company>IP Andrey Tepliakov</Company>
+    <Description>Application for creating proportional fonts with minimal size for use in embedded systems</Description>
+    <Copyright>(C) 2021 Andrey Tepliakov</Copyright>
+    <PackageLicenseExpression>GNU GPL 3.0</PackageLicenseExpression>
+    <NeutralLanguage>ru</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
